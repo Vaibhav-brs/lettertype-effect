@@ -21,7 +21,7 @@ function setContent() {
     <h2 data-type data-type-min="100" data-type-max="300">
      Main Heading
     </h2>
-    <p class="text-start lh-lg" data-type data-type-min="1" data-type-max="6">
+    <p class="text-start lh-lg" data-type data-type-min="0" data-type-max="0">
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur animi 
     labore blanditiis dolores voluptas aut eligendi exercitationem perferendis autem 
     distinctio dolorum magni a quae, facilis excepturi debitis, corrupti suscipit odio. 
